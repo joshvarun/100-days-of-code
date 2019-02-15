@@ -6,4 +6,4 @@
 
 **Thoughts:** I struggle with good content to put on the page. And still need to check CSS code from other projects if something does not work out. Is this normal? I don't know. I'll keep at it though. Practice, practice, PRACTICE!
 
-**Link to work:** [Varun Joshi - Website](http://www.joshvarun.github.io/)
+**Link to work:** [Varun Joshi - Website](http://joshvarun.github.io/)
